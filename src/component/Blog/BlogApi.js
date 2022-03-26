@@ -8,6 +8,15 @@ const BlogApi = [
     title_one: "Memulai Pemrograman Dengan Kotlin",
     desc_one: "Dicoding Certification",
   },
+  {
+    id: 2,
+    image: "./image/2-1.png",
+    date: "26 March, 2022",
+    image1: "./image/2-2.png",
+    image2: "./image/2-3.png",
+    title_one: "Belajar Fundamental Aplikasi Android",
+    desc_one: "Dicoding Certification",
+  },
   // {
   //   id: 2,
   //   image: "./image/blog-02.jpg",
