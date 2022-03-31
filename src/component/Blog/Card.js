@@ -44,7 +44,7 @@ const Card = (props) => {
               <img src={require(`${props.image1}`)} alt='' />
             </div>
             <div className='modal-img left'>
-              <img src={require(`${props.image2}`)} alt='' />
+              {props.image2 == "" ? null : <img src={require(`${props.image2}`)} alt='' />}
             </div>
             <div className='modal-text right'>
               <span>{props.date}</span>

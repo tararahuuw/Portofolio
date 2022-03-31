@@ -17,6 +17,15 @@ const BlogApi = [
     title_one: "Belajar Fundamental Aplikasi Android",
     desc_one: "Dicoding Certification",
   },
+  {
+    id: 2,
+    image: "./image/3-1.png",
+    date: "31 March, 2022",
+    image1: "./image/3-2.png",
+    image2: "",
+    title_one: "Belajar Prinsip Pemrograman SOLID",
+    desc_one: "Dicoding Certification",
+  },
   // {
   //   id: 2,
   //   image: "./image/blog-02.jpg",
