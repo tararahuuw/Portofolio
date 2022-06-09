@@ -11,7 +11,7 @@ const Resume = () => {
           <div className='heading text-center'>
             <h1>My Resume</h1>
             <br />
-            <button className='btn_shadow'><a href="https://drive.google.com/file/d/1noeyMnSIOMehGPXxeDPusvH6m2SjclvI/view?usp=sharing" target="_blank">Curriculum Vitae</a></button>
+            <button className='btn_shadow'><a href="https://drive.google.com/file/d/1fFR-F_IxUIrV3Weft2DaItaVX3f4ydUa/view?usp=sharing" target="_blank">Curriculum Vitae</a></button>
           </div>
 
           <div className='content-section mtop d_flex'>

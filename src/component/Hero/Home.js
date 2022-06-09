@@ -18,7 +18,7 @@ const Home = () => {
             <h2>
               a
               <span>
-                <Typewriter words={[" Frontend Developer", " Backend Developer", " Android Developer", " IOS Developer", " UI UX Designer", " Project Manager", " Founder of Lentera Rantau"]} loop cursor cursorStyle='|' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
+                <Typewriter words={[" Frontend Developer", " Backend Developer", " Android Developer", " IOS Developer", " UI UX Designer", " Project Manager", " Founder of Serantau"]} loop cursor cursorStyle='|' typeSpeed={70} deleteSpeed={50} delaySpeed={1000} />
               </span>
             </h2>
 

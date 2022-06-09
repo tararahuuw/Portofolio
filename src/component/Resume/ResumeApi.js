@@ -79,6 +79,46 @@ const ResumeApi = [
     desc: "Frontend Developer",
     rate: "Freelancing",
   },
+  {
+    id: 10,
+    category: "experience",
+    year: "Mei 2022",
+    title: "OneTap.In",
+    desc: "UI UX Designer",
+    rate: "Freelance",
+  },
+  {
+    id: 10,
+    category: "experience",
+    year: "Mei 2022",
+    title: "ParaCare",
+    desc: "UI UX Designer",
+    rate: "Freelance",
+  },
+  {
+    id: 10,
+    category: "experience",
+    year: "Mei 2022",
+    title: "Design Maker",
+    desc: "UI UX Designer",
+    rate: "Freelance",
+  },
+  {
+    id: 10,
+    category: "experience",
+    year: "Mei 2022",
+    title: "Sidhutaguna",
+    desc: "UI UX Designer",
+    rate: "Freelance",
+  },
+  {
+    id: 10,
+    category: "experience",
+    year: "Juni 2022",
+    title: "Paragon Technology and Innovation",
+    desc: "Android Developer",
+    rate: "Intership",
+  },
 ]
 
 export default ResumeApi
